@@ -1,0 +1,17 @@
+# AI context files (kept private)
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+docs/PLAN.md
+
+# Secrets and data
+.env
+data/
+*.parquet
+
+# Python / OS clutter
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.pytest_cache/
+.DS_Store

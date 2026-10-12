@@ -1,0 +1,10 @@
+pandas
+numpy
+pyarrow
+requests
+scikit-learn
+torch
+pulp
+supabase
+python-dotenv
+pytest
