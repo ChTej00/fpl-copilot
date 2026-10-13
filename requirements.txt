@@ -4,7 +4,7 @@ pyarrow
 requests
 scikit-learn
 torch
-pulp
+pulp==3.3.2
 supabase
 python-dotenv
 pytest
